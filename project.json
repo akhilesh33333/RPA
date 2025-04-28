@@ -2,7 +2,7 @@
   "name": "RPA_GIT",
   "projectId": "bbabba8d-e352-4344-a613-eb23487b78a1",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Folder\\Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[25.2.1]"
   },
@@ -45,8 +45,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "9eb79c23-200b-4cb7-aa7f-de4f7ba478cd",
+      "filePath": "Folder\\Main.xaml",
+      "uniqueId": "741382d7-b686-46e0-b118-44104d92d9b3",
       "input": [],
       "output": []
     }
